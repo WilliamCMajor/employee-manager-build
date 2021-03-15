@@ -1,5 +1,11 @@
 # Employee Manager V2
 
+This project is a user register login, and authenticate web application. Using server side routing middleware to host static file. Create a custom API, using JSON file to store data. Fetch data and display it on the client side.
+
+### Dashboard
+Endpoint dashboard is a derver side rendering page, fetch api request, read json data file, using custom event controller send back to the client side.
+
+
 __Install__. 
 To start install the project node_modules by running ```npm install```
 
