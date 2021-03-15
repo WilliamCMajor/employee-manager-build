@@ -47,7 +47,7 @@
       ]
     },
     "_snowpack/pkg/ejs.js": {
-      "bytes": 38920,
+      "bytes": 38932,
       "imports": []
     },
     "js/utils/renderTemplate.js": {
@@ -217,7 +217,7 @@
           "bytesInOutput": 36
         },
         "_snowpack/pkg/ejs.js": {
-          "bytesInOutput": 13700
+          "bytesInOutput": 13712
         },
         "js/utils/renderTemplate.js": {
           "bytesInOutput": 55
@@ -247,7 +247,7 @@
           "bytesInOutput": 278
         }
       },
-      "bytes": 18985
+      "bytes": 18997
     }
   }
 }
