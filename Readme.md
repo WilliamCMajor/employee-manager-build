@@ -5,6 +5,12 @@ This project is a user register login, and authenticate web application. Using s
 ### Dashboard
 Endpoint dashboard is a derver side rendering page, fetch api request, read json data file, using custom event controller send back to the client side.
 
+### Deployment
+https://employee-manager-build.herokuapp.com/
+
+### Log In username and password
+user@gmail.com
+1234
 
 ### Usage
 __Install__. 
