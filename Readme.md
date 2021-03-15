@@ -6,6 +6,7 @@ This project is a user register login, and authenticate web application. Using s
 Endpoint dashboard is a derver side rendering page, fetch api request, read json data file, using custom event controller send back to the client side.
 
 
+### Usage
 __Install__. 
 To start install the project node_modules by running ```npm install```
 
