@@ -9,7 +9,7 @@ Endpoint dashboard is a derver side rendering page, fetch api request, read json
 https://employee-manager-build.herokuapp.com/
 
 ### Log In username and password
-user@gmail.com
+user@gmail.com  
 1234
 
 ### Usage
